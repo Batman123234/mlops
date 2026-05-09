@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pkl
+*.db
+*.sqlite3
+.env*
+mlartifacts/
+mlruns/
+mlflow.db
+*.log
+.vscode/
+.idea/

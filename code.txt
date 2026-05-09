@@ -1,0 +1,19 @@
+### Valid IDs for Registration
+The following IDs are pre-assigned to sample users (using them will give you the "already registered" error):
+
+- 12345678 (Group Leader)
+- 87654321 (Treasurer)
+- 11223344 (Unit Leader)
+Please use any of these IDs for your new registration:
+
+- 55667788
+- 99887766
+- 11112222
+- 33334444
+- 55556666
+- 12121212
+- 34343434
+- 56565656
+- 78787878
+- 00000000
+- 99999999
